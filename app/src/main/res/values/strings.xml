@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projet Final</string>
+    <string name="not_compatible">not_compatible\n</string>
+    <string name="scan_ended">scan_ended\n</string>
+    <string name="deconnection">deconnection\n</string>
+    <string name="toggleLed">toggleLed\n</string>
+    <string name="start_scan">start_scan\n</string>
+    <string name="connected_to">connected_to %s\n</string>
+    <string name="uuid_not_found">uuid_not_found\n</string>
+    <string name="not_connected">not_connected</string>
+</resources>
